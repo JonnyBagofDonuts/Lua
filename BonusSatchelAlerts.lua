@@ -1,6 +1,4 @@
--- Coded by: Exzu / EU-Aszune
- 
- 
+-- Coded by: ([Originally: Exzu / EU-Aszune][Moded: Jonny Bag of Donuts]) 
 -- Color = {red, green, blue, transparency}
 textDatabase = {
         ANT = { outLine = "OUTLINE", fontSize = "14", loc = "TOP", x = 0, y = 8, color = {1, 1, 1, 1}, text = "Satchel Scanner", },
